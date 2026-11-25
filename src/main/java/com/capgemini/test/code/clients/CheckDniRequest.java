@@ -10,5 +10,5 @@ import lombok.Setter;
 @NoArgsConstructor
 @AllArgsConstructor
 public class CheckDniRequest {
-  private String dni;
+    private String dni;
 }
